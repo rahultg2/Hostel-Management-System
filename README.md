@@ -1,7 +1,5 @@
 # Hostel-Management-System
 Web Application to Manage Hostel Tasks Digitally
-# Hostel Management System
- Hostel Management System
 
 # To run the application Hostel Management System follow the steps: 
 
